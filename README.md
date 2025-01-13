@@ -1,7 +1,3 @@
-Here’s the GitHub-friendly README for your project without a table of contents:
-
----
-
 # **Transl8r: Real-Time Multilingual Speech Translation System**
 
 Transl8r is a real-time multilingual speech translation application designed to bridge language barriers effortlessly. Built using React.js (frontend) and Flask (backend), it enables seamless translation of spoken language into text across multiple languages, providing an intuitive and powerful tool for global communication.
